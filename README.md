@@ -1,6 +1,6 @@
 # CHAT_APPLICATION
 
-created as a practicum for my college project
+created as a project for my college practicum
 ## Application screenshot
 login interface
 
